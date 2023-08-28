@@ -1,4 +1,8 @@
 /********** Template CSS **********/
+@media (max-width: 768px) {
+    /* Estilos específicos para telas menores */
+}
+
 
 :root {
     --primary: #FB5B21;
